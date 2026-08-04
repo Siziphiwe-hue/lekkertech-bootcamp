@@ -13,4 +13,4 @@ elif guest_age >=18 and not has_ticket:
 elif guest_age < 18 and is_vip:
     print("You are not old enough to enter, but you can enter as a VIP.")
 else:
-    print("You are not old enough to enter.")
+    print("You are not old enough to enter, please go sleep.")
